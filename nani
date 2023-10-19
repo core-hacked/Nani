@@ -1,6 +1,6 @@
 #!/bin/bash
 #                                     [=== Nani ===]
-# created and distributed by core-hacked <corehacked.cf> under the MIT License in 2022.
+# created and distributed by core-hacked <corehacked.com> under the MIT License in 2022.
 
 print_permissions() {
   case "$1" in
